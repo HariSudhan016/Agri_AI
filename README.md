@@ -5,9 +5,10 @@ The application combines Artificial Intelligence, Machine Learning, Natural Lang
 
 🌱 Making agricultural knowledge easier to access with AI.
 
-🌐 Try Agri AI Online:
+## 🚀 Live Demo
 
-👉 Open Agri AI
+[View the deployed project](https://agriai-yvpgjf2nyhrzxzfip3fhja.streamlit.app/)
+
 
 🚀 Features
 🌾 Crop Advisory
@@ -166,7 +167,7 @@ The exact structure may vary depending on the version of the project.
 
 ⚙️ Installation
 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/AgriAI.git
+git clone https://github.com/HariSudhan016/AgriAI.git
 
 Move into the project directory:
 
@@ -387,7 +388,7 @@ Contributions, suggestions, and improvements are welcome.
 
 To contribute:
 
-git clone https://github.com/YOUR_USERNAME/AgriAI.git
+git clone https://github.com/HariSudhan016/AgriAI.git
 
 Create a new branch:
 
